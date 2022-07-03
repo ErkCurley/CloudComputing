@@ -42,7 +42,8 @@
 
             total = price * quantity
 
-            text = text + "<td>" + obj[i].product_name + "</td>" 
+            text = text + "<td>" + "<img height=50px width=50px src= 'products/imgs/" + obj[i].thumbnailUrl + "'>" + "</td>"
+            text = text + "<td>" + "<a href= 'products/" + obj[i].url + "'>" + obj[i].product_name + "</a>" + "</td>" 
             text = text + "<td>" + price + "</td>"
             text = text + "<td>" + quantity + "</td>"
             text = text + "<td>" + total.toPrecision(4) + "</td>"
