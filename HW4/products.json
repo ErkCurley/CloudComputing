@@ -1,0 +1,26 @@
+[
+  {
+    "product name": "Apples",
+    "id": 1,
+    "price": 1.75,
+    "description": "red apples fresh from the farm",
+    "url": "apples.html",
+    "thumbnailUrl": "applethumbnail.jpg"
+  },
+  {
+    "product name": "Bananas",
+    "id": 2,
+    "price": 0.68,
+    "description": "Bananas by the pound",
+    "url": "banana.html",
+    "thumbnailUrl": "bananathumbnail.jpg"
+  },
+  {
+    "product name": "Orange",
+    "id": 3,
+    "price": 2.34,
+    "description": "Flordia Oranges",
+    "url": "orange.html",
+    "thumbnailUrl": "orangethumbnail.jpg"
+  } 
+]
