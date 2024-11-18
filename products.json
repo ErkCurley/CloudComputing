@@ -10,7 +10,7 @@
   {
     "product name": "Bananas",
     "id": 2,
-    "price": .68,
+    "price": 0.68,
     "description": "Bananas by the pound",
     "url": "banana.html",
     "thumbnailUrl": "bananathumbnail.jpg"
